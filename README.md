@@ -1,2 +1,2 @@
-# cli-multitool
-Like a physical multitool but for the cli.
+# Discord Status CLI
+CLI tool that updates your discord status.
